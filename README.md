@@ -1,3 +1,3 @@
-# Playground Repo
+# Placeholder
 
-Fall 2018 message.
+Placeholders for links (images/model weights etc...)
